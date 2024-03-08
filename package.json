@@ -1,0 +1,9 @@
+{
+  "name": "@tuyen889/vietnam",
+  "version": "1.0.0",
+  "description": "Quest for tea.xyz",
+  "main": "index.js",
+  "author": "@tuyen889",
+  "repository": "https://github.com/tuyen889/vietnam.git",
+  "license": "ISC"
+}
